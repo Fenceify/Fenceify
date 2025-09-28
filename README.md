@@ -10,8 +10,9 @@ Organize your cluttered desktop into draggable, resizable “fences” where you
 * Create multiple fences
 * Drag & resize fences freely
 * Drop files/shortcuts into fences
-* Persistent layout saved to `%APPDATA%\Fencify\\layout.json`
-* Simple, modern WPF UI
+* Persistent layout saved locally.
+* Simple, Fences 3 inspired UI.
+## * Credits to https://github.com/Twometer/NoFences For the Inspiration for this project.
 
 ---
 
